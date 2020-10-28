@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "362968995712",
+    "firebase_url": "https://papum-d942a.firebaseio.com",
+    "project_id": "papum-d942a",
+    "storage_bucket": "papum-d942a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362968995712:android:551a08d86ecefefa721365",
+        "android_client_info": {
+          "package_name": "papum.packge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362968995712-j6j3oq5u4ua25pscqqk0st27r5taet4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPeL7dOoIuDuRp74QNpAbDjFh1_Iz50Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362968995712-j6j3oq5u4ua25pscqqk0st27r5taet4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
